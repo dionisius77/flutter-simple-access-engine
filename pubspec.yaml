@@ -1,6 +1,6 @@
 name: flutter_simple_access_engine
 description: "A lightweight ABAC permission engine for Flutter."
-version: 1.0.1
+version: 1.0.0
 repository: https://github.com/dionisius77/flutter-simple-access-engine
 license: MIT
 
